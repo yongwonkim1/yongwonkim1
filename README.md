@@ -8,8 +8,6 @@
 - 단국대학교 응용컴퓨터공학과 졸업 (2016.03 ~ 2024.02)
   
 
-## 👨‍💻Project
-
 ## ✉️ Contact 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:qwsa522@naver.com">
