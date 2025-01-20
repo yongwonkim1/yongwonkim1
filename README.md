@@ -19,21 +19,15 @@
 
 ### **Backend Development**
 - **Java & Spring Boot** 
-  - RESTful API design, JWT, SpringSecurity, and database integration (JPA).
 - **Node.js** 
-  - Asynchronous processing, server setup, and database CRUD operations.
 
 ### **Frontend Development**
 - **React & React Native** 
-  - Component-based architecture, state management, and cross-platform mobile apps.
-- **Android Native (Kotlin/Java)** 
-  - Mobile app development using Android SDK.
+- **Android Native (Kotlin)** 
 
 ### **Infra & DevOps**
 - **Docker** 
-  - Containerization, Docker Compose, and orchestration.
 - **NGINX** 
-  - Reverse proxy, Blue-Green deployment for zero downtime.
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qsc7539)](https://solved.ac/qsc7539/)
