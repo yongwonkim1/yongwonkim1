@@ -15,17 +15,25 @@
     </a>
 </div>
 
-##  💻Skill
-**language & Framework**
+## 💻 Skills
+
+### **Backend Development**
+- **Java & Spring Boot** 
+  - RESTful API design, JWT, SpringSecurity, and database integration (JPA).
+- **Node.js** 
+  - Asynchronous processing, server setup, and database CRUD operations.
+
+### **Frontend Development**
+- **React & React Native** 
+  - Component-based architecture, state management, and cross-platform mobile apps.
+- **Android Native (Kotlin/Java)** 
+  - Mobile app development using Android SDK.
+
+### **Infra & DevOps**
+- **Docker** 
+  - Containerization, Docker Compose, and orchestration.
+- **NGINX** 
+  - Reverse proxy, Blue-Green deployment for zero downtime.
 
 
-**Database**
-
-**Infra & CI/CD**
-
-
-**SUPPORT TOOL**
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qsc7539)](https://solved.ac/qsc7539/) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongwonkim1&layout=compact&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)
-![yongwonkim1 님의 GitHub stats](https://github-readme-stats.vercel.app/api?username=yongwonkim1&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qsc7539)](https://solved.ac/qsc7539/)
